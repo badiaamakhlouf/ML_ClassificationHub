@@ -1,2 +1,1 @@
-# Machine Learning: Supervised Learning
-# Classification
+# Machine Learning: Classification
